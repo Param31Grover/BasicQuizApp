@@ -1,0 +1,11 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+    <string name="kshitij_suri">Kshitij Suri</string>
+    <string name="question_number">Question number: 1</string>
+    <string name="score_result">0</string>
+    <string name="shotgun">Shotgun</string>
+    <string name="please_enter_username">Please enter Username</string>
+    <string name="score">Score</string>
+    <string name="_ssmsms"></string>
+
+</resources>
